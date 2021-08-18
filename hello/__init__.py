@@ -14,4 +14,7 @@ def create_app():
     def hello():
         return "Hello, World"
 
+    @app.route("/host")
+    def host():
+        return os.uname()[1]
     return app
