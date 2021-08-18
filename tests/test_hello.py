@@ -7,4 +7,4 @@ def test_main_page(client):
 #Create a test that will fail so i can test githubactions
 def test_hostname_page(client):
     response = client.get('/host')
-    assert response.status_code == 200
+    assert response.status_code == 404
