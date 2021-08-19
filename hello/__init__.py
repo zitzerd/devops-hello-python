@@ -16,5 +16,5 @@ def create_app():
 
     @app.route("/host")
     def host():
-        return f"Hello from {os.uname()[1]}"
+        return f"Hello from Task {os.uname()[1]}"
     return app
