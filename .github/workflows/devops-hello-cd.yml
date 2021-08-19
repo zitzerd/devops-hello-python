@@ -90,7 +90,7 @@ jobs:
         # The number of tasks revisions to remain
         maxTasks: 1
         # Aws region
-        region: us-east-1
+        region: eu-west-1
         
 
 
