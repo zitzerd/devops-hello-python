@@ -1,3 +1,7 @@
+![CI Workflow](https://github.com/zitzerd/devops-hello-python/actions/workflows/python-app-ci.yml/badge.svg)
+
+![CD Workflow](https://github.com/zitzerd/devops-hello-python/actions/workflows/python-app-cd.yml/badge.svg)
+
 # What i will be doing here
 
 * Test the app locally
