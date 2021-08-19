@@ -1,4 +1,4 @@
-[![Build and Test](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml/badge.svg?branch=main)](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml)
+[![Build and Test](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml/badge.svg)](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml)
 
 [![Deploy to Amazon ECS](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-cd.yml/badge.svg?branch=main)](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-cd.yml)
 # What i will be doing here
