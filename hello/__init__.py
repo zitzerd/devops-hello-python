@@ -12,7 +12,7 @@ def create_app():
 
     @app.route("/")
     def hello():
-        return "Hello, World!!"
+        return "Hello, World"
 
     @app.route("/host")
     def host():
