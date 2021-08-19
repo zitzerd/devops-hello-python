@@ -1,6 +1,4 @@
-[![Build and Test](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml/badge.svg)](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-ci.yml)
 
-[![Deploy to Amazon ECS](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-cd.yml/badge.svg?branch=main)](https://github.com/zitzerd/devops-hello-python/actions/workflows/devops-hello-cd.yml)
 # What i will be doing here
 
 * Test the app locally
@@ -15,5 +13,5 @@ Functions
 
 Added Functionatlity
 * There is a 2nd route /host that will return the hostname where the task is running, to see if the app send to the 2 tasks
-* Added linting to the code.
+* Added linting to the code. (pending test..)
 
